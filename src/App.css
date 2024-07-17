@@ -1,0 +1,6 @@
+.app {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding-top: 20px;
+}
